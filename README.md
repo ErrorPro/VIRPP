@@ -8,3 +8,5 @@
 
 1. `npm install`
 2. `npm start`
+
+![](images/1.png)
