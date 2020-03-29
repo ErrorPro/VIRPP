@@ -1,0 +1,47 @@
+.track_item {
+  display: flex;
+  flex: 1;
+  padding: 10px 20px;
+  border-bottom: 1px solid rgb(245, 245, 245);
+}
+
+.track_item_number {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px 0 10px;
+}
+
+.track_item_number_id {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.track_item_number_rate {
+  font-size: 14px;
+}
+
+.track_item_info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 10px 20px;
+}
+
+.track_item_info_title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.track_item_rate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.track_item_rate_img {
+  margin-right: 8px;
+}
